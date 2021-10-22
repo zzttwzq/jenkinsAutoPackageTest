@@ -1,0 +1,2 @@
+# jenkinsAutoPackageTest
+jenkinsAutoPackageTest
